@@ -1,5 +1,6 @@
 Strawbooi Pricing Intelligence Platform
-
+[![GitHub release](https://img.shields.io/github/release/YOUR_USERNAME/strawbooi-pricing-intelligence.svg)](https://github.com/YOUR_USERNAME/strawbooi-pricing-intelligence/releases/)
+[![GitHub stars](https://img.shields.io/github/stars/YOUR_USERNAME/strawbooi-pricing-intelligence.svg?style=social)](https://github.com/YOUR_USERNAME/strawbooi-pricing-intelligence/stargazers)
 ![Strawbooi Logo](https://img.shields.io/badge/Strawbooi-Pricing%20Intelligence-blue?style=for-the-badge&logo=data:image/svg+xml;base64,PHN2ZyB3aWR0aD0iMjQiIGhlaWdodD0iMjQiIHZpZXdCb3g9IjAgMCAyNCAyNCIgZmlsbD0ibm9uZSIgeG1sbnM9Imh0dHA6Ly93d3cudzMub3JnLzIwMDAvc3ZnIj4KPHBhdGggZD0iTTEyIDJMMTMuMDkgOC4yNkwyMCA5TDEzLjA5IDkuNzRMMTIgMTZMMTAuOTEgOS43NEw0IDlMMTAuOTEgOC4yNkwxMiAyWiIgZmlsbD0iY3VycmVudENvbG9yIi8+Cjwvc3ZnPgo=)
 
 An enterprise-grade competitor pricing intelligence platform with advanced anomaly detection, real-time monitoring, and AI-powered strategic insights.
