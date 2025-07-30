@@ -1,8 +1,8 @@
-# 🚀 Strawbooi Pricing Intelligence Platform
+Strawbooi Pricing Intelligence Platform
 
 ![Strawbooi Logo](https://img.shields.io/badge/Strawbooi-Pricing%20Intelligence-blue?style=for-the-badge&logo=data:image/svg+xml;base64,PHN2ZyB3aWR0aD0iMjQiIGhlaWdodD0iMjQiIHZpZXdCb3g9IjAgMCAyNCAyNCIgZmlsbD0ibm9uZSIgeG1sbnM9Imh0dHA6Ly93d3cudzMub3JnLzIwMDAvc3ZnIj4KPHBhdGggZD0iTTEyIDJMMTMuMDkgOC4yNkwyMCA5TDEzLjA5IDkuNzRMMTIgMTZMMTAuOTEgOS43NEw0IDlMMTAuOTEgOC4yNkwxMiAyWiIgZmlsbD0iY3VycmVudENvbG9yIi8+Cjwvc3ZnPgo=)
 
-**An enterprise-grade competitor pricing intelligence platform with advanced anomaly detection, real-time monitoring, and AI-powered strategic insights.**
+An enterprise-grade competitor pricing intelligence platform with advanced anomaly detection, real-time monitoring, and AI-powered strategic insights.
 
 [![MIT License](https://img.shields.io/badge/License-MIT-green.svg)](https://choosealicense.com/licenses/mit/)
 [![React](https://img.shields.io/badge/React-19+-61DAFB?logo=react)](https://reactjs.org/)
@@ -10,48 +10,48 @@
 [![MongoDB](https://img.shields.io/badge/MongoDB-Latest-47A248?logo=mongodb)](https://mongodb.com/)
 [![TailwindCSS](https://img.shields.io/badge/TailwindCSS-3.4+-38B2AC?logo=tailwind-css)](https://tailwindcss.com/)
 
-## ✨ Features
+Features
 
-### 🎯 **Competitive Intelligence**
-- **Real-time Price Monitoring** - Track competitor prices across multiple platforms
-- **Advanced Anomaly Detection** - AI-powered identification of unusual pricing patterns
-- **Multi-competitor Tracking** - Monitor Amazon, eBay, Best Buy, Apple Store, and custom retailers
-- **Historical Price Analysis** - Comprehensive price trend visualization
+Competitive Intelligence
+- Real-time Price Monitoring - Track competitor prices across multiple platforms
+- Advanced Anomaly Detection - AI-powered identification of unusual pricing patterns
+- Multi-competitor Tracking - Monitor Amazon, eBay, Best Buy, Apple Store, and custom retailers
+- Historical Price Analysis - Comprehensive price trend visualization
 
-### 🧠 **AI-Powered Insights**
-- **Smart Alert System** - Configurable thresholds with ML-enhanced accuracy
-- **Pricing Strategy Recommendations** - AI-generated competitive positioning advice
-- **Market Opportunity Detection** - Identify pricing gaps and competitive advantages
-- **Predictive Analytics** - Forecast price trends and market movements
+AI-Powered Insights
+- Smart Alert System - Configurable thresholds with ML-enhanced accuracy
+- Pricing Strategy Recommendations - AI-generated competitive positioning advice
+- Market Opportunity Detection - Identify pricing gaps and competitive advantages
+- Predictive Analytics - Forecast price trends and market movements
 
-### 🎨 **Stunning 3D Interface**
-- **Floating Grid Background** - Dynamic animated particle system
-- **3D Card Interactions** - Immersive hover effects with realistic depth
-- **Glass Morphism Design** - Modern frosted glass aesthetic
-- **Parallax Mouse Tracking** - Interactive elements that respond to user movement
-- **Smooth Animations** - 60fps GPU-accelerated transitions
+Stunning 3D Interface
+- Floating Grid Background - Dynamic animated particle system
+- 3D Card Interactions - Immersive hover effects with realistic depth
+- Glass Morphism Design - Modern frosted glass aesthetic
+- Parallax Mouse Tracking - Interactive elements that respond to user movement
+- Smooth Animations - 60fps GPU-accelerated transitions
 
-### 📊 **Professional Dashboard**
-- **Interactive Price Charts** - SVG-based visualizations with hover tooltips
-- **Real-time Data Updates** - Live price feeds with toast notifications
-- **Export Capabilities** - CSV, JSON, Excel, and PDF report generation
-- **Comprehensive Filtering** - Date ranges, product categories, and competitor selection
+Professional Dashboard
+- Interactive Price Charts - SVG-based visualizations with hover tooltips
+- Real-time Data Updates - Live price feeds with toast notifications
+- Export Capabilities - CSV, JSON, Excel, and PDF report generation
+- Comprehensive Filtering - Date ranges, product categories, and competitor selection
 
-## 🛠️ Technology Stack
+Technology Stack
 
-### **Frontend**
-- **React 19** - Latest React with concurrent features
-- **TypeScript Ready** - Type-safe development
-- **Tailwind CSS** - Utility-first styling with custom 3D effects
-- **Shadcn/ui** - Beautiful, accessible component library
-- **Lucide React** - Modern icon library
-- **React Hook Form** - Performant form handling
-- **Sonner** - Elegant toast notifications
+Frontend
+- React 19 - Latest React with concurrent features
+- TypeScript Ready - Type-safe development
+- Tailwind CSS - Utility-first styling with custom 3D effects
+- Shadcn/ui - Beautiful, accessible component library
+- Lucide React - Modern icon library
+- React Hook Form - Performant form handling
+- Sonner - Elegant toast notifications
 
-### **Backend**
-- **FastAPI** - High-performance Python web framework
-- **MongoDB** - NoSQL database with Motor async driver
-- **Pydantic** - Data validation and serialization
+Backend
+- FastAPI - High-performance Python web framework
+- MongoDB - NoSQL database with Motor async driver
+- Pydantic - Data validation and serialization
 - **Python 3.11+** - Latest Python features
 - **Async/Await** - Non-blocking I/O operations
 - **RESTful API** - Clean, documented endpoints
@@ -104,10 +104,10 @@
    # Backend: python -m uvicorn server:app --reload (in /backend)
    ```
 
-6. **Open your browser**
+6. Open your browser
    Navigate to `http://localhost:3000` to see the magic! ✨
 
-## 📁 Project Structure
+Project Structure
 
 ```
 strawbooi-pricing-intelligence/
